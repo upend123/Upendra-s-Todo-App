@@ -13,12 +13,12 @@ A simple and efficient To-Do List application built using **Java** and **XML** f
 
 ## 📸 Screenshots
 
-![Splash Screen](https://github.com/username/repository-name/blob/main/home.png)
+![Splash Screen](https://github.com/upend123/Upendra-s-Todo-App/blob/main/splash_screen.jpg)
+![Home Screen](https://github.com/upend123/Upendra-s-Todo-App/blob/main/home_screen.jpg)
+![Task List](https://github.com/upend123/Upendra-s-Todo-App/blob/main/task_list.png)
+![Task List](https://github.com/upend123/Upendra-s-Todo-App/blob/main/task_list.png)
 ![Home Screen](https://github.com/upend123/Upendra-s-Todo-App/blob/main/home.png)
-![Task List](https://github.com/username/repository-name/blob/main/task_list.png)
-![Task List](https://github.com/username/repository-name/blob/main/task_list.png)
-![Home Screen](https://github.com/username/repository-name/blob/main/home.png)
-![Task List](https://github.com/username/repository-name/blob/main/task_list.png)
+![Task List](https://github.com/upend123/Upendra-s-Todo-App/blob/main/task_list.png)
 
 ## 🛠️ Technologies Used
 
