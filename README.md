@@ -1,24 +1,57 @@
-# 📌 To-Do App
+# 🎮 Tic-Tac-Toe Game - Android App
 
-A simple and efficient To-Do List application built using **Java** and **XML** for Android development. This app helps users manage their daily tasks by adding, updating, deleting, and filtering tasks.
+Welcome to the **Tic-Tac-Toe** game for Android! This interactive and engaging game allows two players to play the classic Tic-Tac-Toe on their Android device. Built with **Kotlin** for the logic and **XML** for the UI, it ensures a smooth and enjoyable experience.
 
-## 🚀 Features
+---
 
-- 📝 Add new tasks
-- ✅ Mark tasks as completed
-- ✏️ Edit tasks
-- 🗑️ Delete tasks
-- 🔍 Search tasks
-- 📂 Uses SQLite Database for data storage
+## 🧩 About the Project
+
+This **Tic-Tac-Toe** app is designed for Android devices with an intuitive and minimalistic interface. Players take turns marking the grid with X and O, and the game automatically detects a win or draw.
+
+### 🛠 Technologies Used:
+- **Kotlin** for Android development
+- **XML** for layout design
+- **Android SDK** for app development
+
+---
+
+## ⚡ Features
+
+✅ **Player vs Player Mode** – Play with a friend on the same device.
+
+✅ **Instant Win/Draw Detection** – Automatic recognition of game outcomes.
+
+✅ **Responsive UI** – Optimized for various screen sizes and resolutions.
+
+✅ **Smooth Animations** – Enhances the gameplay experience.
+
+✅ **Minimalistic Design** – Clean, user-friendly interface for an enjoyable experience.
+
+✅ **Lightweight & Fast** – The app runs smoothly without consuming excess resources.
+
+---
 
 ## 📸 Screenshots
+### Splash Screen 
+<img src="https://github.com/upend123/Tic-Toc-Toe-App/blob/5734649c535397d75441e432bfd8aa78735be8f4/app/src/main/res/drawable/splash_screen.jpg" width="300" height="600" alt="Description">
 
-![Splash Screen](https://github.com/upend123/Upendra-s-Todo-App/blob/main/splash_screen.jpg)
-![Home Screen](https://github.com/upend123/Upendra-s-Todo-App/blob/main/home_screen.jpg)
-![Task List](https://github.com/upend123/Upendra-s-Todo-App/blob/main/task_list.png)
-![Task List](https://github.com/upend123/Upendra-s-Todo-App/blob/main/task_list.png)
-![Home Screen](https://github.com/upend123/Upendra-s-Todo-App/blob/main/home.png)
-![Task List](https://github.com/upend123/Upendra-s-Todo-App/blob/main/task_list.png)
+### Home Screen
+<img src="https://github.com/upend123/Tic-Toc-Toe-App/blob/5734649c535397d75441e432bfd8aa78735be8f4/app/src/main/res/drawable/home_screen.jpg" width="300" height="600" alt="Description">
+
+### Preview
+<img src="https://github.com/upend123/Tic-Toc-Toe-App/blob/5734649c535397d75441e432bfd8aa78735be8f4/app/src/main/res/drawable/preview.jpg" width="300" height="600" alt="Description">
+
+### Add Or Update 
+<img src="https://github.com/upend123/Tic-Toc-Toe-App/blob/5734649c535397d75441e432bfd8aa78735be8f4/app/src/main/res/drawable/add_or_update_task.jpg" width="300" height="300" alt="Description">
+
+### Task 
+<img src="https://github.com/upend123/Tic-Toc-Toe-App/blob/5734649c535397d75441e432bfd8aa78735be8f4/app/src/main/res/drawable/check_list.jpg" width="600" height="200" alt="Description">
+
+### Delete Task
+<img src="https://github.com/upend123/Tic-Toc-Toe-App/blob/5734649c535397d75441e432bfd8aa78735be8f4/app/src/main/res/drawable/delete_dialog.jpg" width="300" height="600" alt="Description">
+
+### Swip to Delete or Update 
+<img src="https://github.com/upend123/Tic-Toc-Toe-App/blob/5734649c535397d75441e432bfd8aa78735be8f4/app/src/main/res/drawable/swip_list.jpg" width="300" height="600" alt="Description">
 
 ## 🛠️ Technologies Used
 
@@ -50,31 +83,42 @@ To-Do App/
 │-- AndroidManifest.xml
 ```
 
-## 📥 Installation & Setup
 
+## 🛠️ Installation Guide
+
+### Prerequisites:
+Ensure you have the following before proceeding:
+- **Android Studio** (latest version) installed.
+- **An Android device** or an emulator for testing.
+
+### 📥 Installing the APK (For Android Users):
+1. **Download the APK** from the **[Releases Section](https://github.com/upend123/Upendra-s-Todo-App/releases/tag/v1.0.0)**.
+2. Enable installation from **Unknown Sources** in your device settings.
+3. Open the downloaded APK file and install it.
+4. Launch the app and start playing!
+
+### 📥 Direct APK Download:
+Click below to download the latest version of the APK directly:
+
+➡️ **[Download APK](https://github.com/upend123/Tic-Toc-Toe-App/releases/download/v1.0.0/app-tic-toc-toe.apk)**
+
+### 🚀 Running the App Locally (Android Studio):
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/To-Do-App.git
+   ```bash
+   git clone https://github.com/upend123/Tic-Toc-Toe-App.git
    ```
 2. Open the project in **Android Studio**.
-3. Sync Gradle and build the project.
-4. Run the app on an emulator or a physical device.
+3. Connect your Android device or start an emulator.
+4. Click on **Run** ▶️ to install and launch the app.
 
-## 📜 Usage
+---
 
-1. Open the app and add a new task.
-2. Mark tasks as complete by checking the box.
-3. Edit or delete tasks by swiping left or right.
-4. Search tasks using the search bar.
+## 📜 License
+This project is licensed under the **MIT License** – you're free to use and modify it.
 
-## 📌 Contribution
-
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
-## 📃 License
-
-This project is licensed under the **MIT License**.
+💡 **Suggestions & Contributions are Welcome!** Feel free to submit issues and pull requests to improve the project.
 
 ---
 
 💡 **Developed by [Upendra Yadav]**
+
