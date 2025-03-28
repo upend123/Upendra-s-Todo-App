@@ -100,7 +100,7 @@ Ensure you have the following before proceeding:
 ### 📥 Direct APK Download:
 Click below to download the latest version of the APK directly:
 
-➡️ **[Download APK](https://github.com/upend123/Tic-Toc-Toe-App/releases/download/v1.0.0/app-tic-toc-toe.apk)**
+➡️ **[Download APK](https://github.com/upend123/Upendra-s-Todo-App/releases/download/v1.0.0/app-debug.apk)**
 
 ### 🚀 Running the App Locally (Android Studio):
 1. Clone the repository:
